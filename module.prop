@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=lgadoptstorenable
+name=LG Adoptable Storage Enabler
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=shinji257
+description=Enable the multi-users feature.
 minMagisk=1500
